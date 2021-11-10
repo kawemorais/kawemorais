@@ -10,8 +10,8 @@
    ##
 ### I'm focused on studying BackEnd Development with this technologies:
 <div style="display: inline-block" align='center'><br>
-  <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <img align="center" alt=".Net" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg">
+  <img align="center" alt="C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+ <img align="center" alt=".Net" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg">
  <img align="center" alt="SQL" height="40" width="50" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 </div>
